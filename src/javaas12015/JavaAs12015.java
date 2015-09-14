@@ -28,7 +28,7 @@ public class JavaAs12015 {
          * Toronto - AVG $77,208 per anum - http://swz.salary.com/CanadaSalaryWizard/Level-II-Software-Engineer-Salary-Details-Toronto-ON.aspx
          * Waterloo - AVG $79,216 per anum - http://swz.salary.com/CanadaSalaryWizard/Level-II-Software-Engineer-Salary-Details-Waterloo-ON.aspx
          * Vancouver - AVG $81,671 per anum - http://swz.salary.com/CanadaSalaryWizard/Level-II-Software-Engineer-Salary-Details-Vancouver-BC.aspx
-         * TESTIE
+         * 
          */
         
         
